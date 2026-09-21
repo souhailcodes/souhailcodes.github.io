@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benlhachemi.github.io/sitemap.xml
